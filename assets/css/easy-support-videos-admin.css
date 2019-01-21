@@ -26,7 +26,7 @@
 .easy-support-videos-wrap iframe,
 .easy-support-videos-wrap object,
 .easy-support-videos-wrap embed {
-	min-height: 320px;
+	min-height: 500px;
 	height: auto;
 }
 .easy-support-videos-wrap .fluid-width-video-wrapper iframe,
